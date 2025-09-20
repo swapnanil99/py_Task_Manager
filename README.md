@@ -22,4 +22,4 @@ You can **add**, **update**, **remove**, and **view tasks** easily.
 2. Clone this repository or copy the `task_manager.py` file.  
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/swapnanil99/Task_manager.git
